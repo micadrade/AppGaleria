@@ -9,6 +9,7 @@
         android:id="@+id/imItem"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:background="@drawable/image_bg"
         tools:layout_editor_absoluteX="3dp"
         tools:layout_editor_absoluteY="34dp"
         tools:srcCompat="@tools:sample/avatars" />
